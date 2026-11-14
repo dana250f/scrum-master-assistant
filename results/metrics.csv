@@ -1,0 +1,4 @@
+strategy,precision,recall,f1,accuracy,tp,fp,fn,tn,parse_errors,avg_latency_s
+ZERO_SHOT,0.7358,0.3900,0.5098,0.6250,39,14,61,86,0,1.31
+FEW_SHOT,0.7660,0.3600,0.4898,0.6250,36,11,64,89,0,2.45
+ROLE,0.6863,0.3500,0.4636,0.5950,35,16,65,84,0,1.31
